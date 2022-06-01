@@ -5,4 +5,4 @@ KARP is an instrument control, measurement, and real-time data collection and vi
 
 KAPR is the product programmed by undergraduate researchers Paul Buttles and Luka Mitrovic under the supervision of Tsung-Chi Wu and Dr. Jak Chakhalian of the LAQM at Rutgers University. This was completed under the guidance of the PhD candidate, Tsung-Chi Wu, who served as a research mentor for the project and is this software's primary user.
 
-We undertstand KARP is still not perfected and thus encourage everyone to collaborate with us to improve it. Please email Tsung-Chi Wu at tcwu@physics.rutgers.edu if interested.
+We undertstand KARP is not perfected and encourage everyone to collaborate with us to improve it. Please email Tsung-Chi Wu at tcwu@physics.rutgers.edu if interested.
